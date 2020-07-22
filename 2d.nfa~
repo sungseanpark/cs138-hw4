@@ -1,0 +1,10 @@
+alpbahet: {a, b}
+start: q0
+accepting: {q5}
+
+q0 (b -> q1)
+q1 (a -> q2) (b -> q2)
+q2 (a -> q3) (b -> q3)
+q3 (a -> q4) (b -> q4)
+q4 (a -> q5)
+q5 (a -> q5) (b -> q5)
