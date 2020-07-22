@@ -1,0 +1,3 @@
+alphabet: {a, b, #}
+
+( (xxxxx)*#(yyyyy)* ) | ( (xxxxx)*x#(yyyyy)*y ) | ( (xxxxx)*xx#(yyyyy)*yy ) | ( (xxxxx)*xxx#(yyyyy)*yyy ) | ( (xxxxx)*xxxx#(yyyyy)*yyyy )
